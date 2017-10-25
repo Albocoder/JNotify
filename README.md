@@ -10,10 +10,16 @@ To use this you need to follow the following steps:
   <li>Call notify method of NotificationManager</li>
 </ol>
 <br>
+
 # Open to contribution
+
 This is open source initiative. Please contribute to this repository by adding new features and refactoring the code. :)<br>
 If you can't contribute with code please consider dropping a star. It really helps a lot :) 
+
 # Used by
+
 <a href="https://github.com/Albocoder/CoinTracker">CoinTracker</a>
+
 # Licensing
+
 Use at your own will just please link this repository at the code comments and/or any place you mention used libraries.
