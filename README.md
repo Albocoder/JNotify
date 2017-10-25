@@ -3,13 +3,13 @@ This library aims to help making notifications like popups easy. <br>
 It has only 2 classes at the moment and unfortunately no developer documentation.
 # How to use
 To use this you need to follow the following steps:
+<br>
 <ol>
   <li>Add JNotify.jar in your build path.</li>
   <li><i>import albocoder.*;</i></li>
   <li>Create NotificationManager instance</li>
   <li>Call notify method of NotificationManager</li>
 </ol>
-<br>
 
 # Open to contribution
 
