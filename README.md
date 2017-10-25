@@ -21,6 +21,10 @@ If you can't contribute with code please consider dropping a star. It really hel
 
 <a href="https://github.com/Albocoder/CoinTracker">CoinTracker</a>
 
+# Documentation
+
+Not here yet :(
+
 # Licensing
 
 Use at your own will just please link this repository at the code comments and/or any place you mention used libraries.
