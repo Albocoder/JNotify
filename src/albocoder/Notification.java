@@ -105,6 +105,7 @@ public class Notification extends JPanel{
         f.setAlwaysOnTop(true);
         f.setShape(new RoundRectangle2D.Double(0, 0, W, H, 20, 20));
         f.add(this);
+        f.setType(javax.swing.JFrame.Type.UTILITY);
         f.setAutoRequestFocus(false);
     }
     
