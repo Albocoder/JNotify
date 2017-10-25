@@ -2,6 +2,16 @@
 # JNotify [![Build Status](https://travis-ci.org/Albocoder/JNotify.svg?branch=master)](https://travis-ci.org/Albocoder/JNotify)
 This library aims to help making notifications like popups easy. <br>
 It has only 2 classes at the moment and unfortunately no developer documentation.
+
+# Features 
+  1) Support for "danger", "warning" and "success" notifications
+  2) Support for all the 4 corners of the screen (relative to any system tray)
+  3) "fading" animation only :(
+  4) Automatic killing of the notifications
+  5) Automatically stacking notifications to keep a nice and tidy look.
+  6) Automatic reordering of what is showing when a notification is killed.
+  7) (coming up) beeping and custom sound plays
+
 # How to use
 To use this you need to follow the following steps:
 <br>
