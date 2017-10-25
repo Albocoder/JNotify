@@ -1,4 +1,5 @@
-# JNotify
+
+# JNotify [![Build Status](https://travis-ci.org/Albocoder/JNotify.svg?branch=master)](https://travis-ci.org/Albocoder/JNotify)
 This library aims to help making notifications like popups easy. <br>
 It has only 2 classes at the moment and unfortunately no developer documentation.
 # How to use
