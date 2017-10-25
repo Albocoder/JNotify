@@ -15,7 +15,7 @@ To use this you need to follow the following steps:
 
 # Screenshot
 
-[![In Action](http://erin.avllazagaj.ug.bilkent.edu.tr/JNotify/ss1.png)]
+![In Action](http://erin.avllazagaj.ug.bilkent.edu.tr/JNotify/ss1.png)
 
 # Used by
 
