@@ -37,7 +37,7 @@ To use this you need to follow the following steps:
 # Repository
 
 Hosted by Sonatype Nexus repository: https://oss.sonatype.org/#nexus-search;quick~jnotify 
-Stage version: 1.0.2
+<br>Latest release version: 1.0.2
 
 # Documentation
 
