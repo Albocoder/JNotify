@@ -36,7 +36,7 @@ To use this you need to follow the following steps:
 
 # Repository
 
-Open in the Maven repository: http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.albocoder%22
+Open in the <a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.albocoder%22">Maven repository</a>
 <br>Latest release version: 1.0.2
 
 # Documentation
