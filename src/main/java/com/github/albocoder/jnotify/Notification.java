@@ -71,7 +71,7 @@ public class Notification extends JPanel{
         colorize();
     }
    
-    // colorize according to the notification type
+    // give color according to the notification type
     private void colorize(){
         Color panelBackColor;
         Color titleColor;
