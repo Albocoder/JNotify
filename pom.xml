@@ -13,7 +13,14 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
+	<licenses>
+		<license>
+			<name>GNU General Public License, Version 3</name>
+			<url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+			<distribution>manual</distribution>
+			<comments>A free, copyleft license for software and other kinds of works</comments>
+		</license>
+	</licenses>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -47,6 +54,33 @@
 					</execution>
 				</executions>
 			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
 		</plugins>
 	</build>
+	<description>This library aims to help making notification popups easy to manage. It takes care of placing, ordering and killing of notifications automatically by time as well as manually by mouse clicking.</description>
+	<scm>
+		<developerConnection>scm:git:git@github.com:Albocoder/JNotify.git</developerConnection>
+		<url>https://github.com/Albocoder/JNotify</url>
+		<connection>scm:git:git://github.com/Albocoder/JNotify.git</connection>
+		<tag>jnotify-1.0.2</tag>
+	</scm>
+	<developers>
+		<developer>
+			<email>albocoder@protonmail.com</email>
+			<name>Erin Avllazagaj</name>
+			<url>https://github.com/Albocoder</url>
+			<id>Albocoder</id>
+		</developer>
+	</developers>
 </project>
