@@ -1,4 +1,4 @@
-package albocoder;
+package com.github.albocoder.jnotify;
 
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;

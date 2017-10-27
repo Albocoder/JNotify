@@ -1,9 +1,10 @@
-package albocoder;
+package com.github.albocoder.jnotify;
 
 import java.awt.*;
 import javax.swing.*;
 import java.awt.geom.RoundRectangle2D;
 
+@SuppressWarnings("serial")
 public class Notification extends JPanel{
     // global constants
     public static final String ANIMATION_FADING = "fading";
@@ -16,7 +17,7 @@ public class Notification extends JPanel{
     public static final String TYPE_WARNING = "warning";
     public static final String TYPE_SUCCESS = "success";
     public static final int DEFAULT_ORDER = 1;
-    // constrants
+    // constants
     private final int W = 250;
     private final int H = 60;
     private final int TEXT_MAX_CHAR = 33;
@@ -188,7 +189,6 @@ public class Notification extends JPanel{
     }
     
     // supported animations
-    @SuppressWarnings("SleepWhileInLoop")
     public void fadeIn(JFrame f) throws InterruptedException{
         f.setOpacity(0.1f);
         f.setVisible(true);
@@ -199,7 +199,6 @@ public class Notification extends JPanel{
         f.revalidate();
     }
     
-    @SuppressWarnings("SleepWhileInLoop")
     public void fadeOut(JFrame f) throws InterruptedException{
         for (float o = 0.7f;o >= 0.1;o-=0.1f){
             f.setOpacity(o);
