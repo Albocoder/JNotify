@@ -36,7 +36,7 @@ To use this you need to follow the following steps:
 
 # Repository
 
-Hosted by Sonatype Nexus repository: https://oss.sonatype.org/#nexus-search;quick~jnotify 
+Open in the Maven repository: http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.albocoder%22
 <br>Latest release version: 1.0.2
 
 # Documentation
