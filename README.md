@@ -51,3 +51,8 @@ If you can't contribute with code please consider dropping a star. It really hel
 # Licensing
 
 Use at your own will just please link this repository at the code comments and/or any place you mention used libraries.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/Albocoder/JNotify/badge.svg?style=beer-square)](https://beerpay.io/Albocoder/JNotify)  [![Beerpay](https://beerpay.io/Albocoder/JNotify/make-wish.svg?style=flat-square)](https://beerpay.io/Albocoder/JNotify?focus=wish)
